@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://agentude.github.io/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/app/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/assets/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/css/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/data/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/includes/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/item/sitemap.agentude.gz
+Sitemap: https://agentude.github.io/src/sitemap.agentude.gz
